@@ -42,9 +42,7 @@
   - 분기별 이커머스 사용 후기 작성에 따른 고가 기념품 제공
   - 높은 할인율 및 포인트 적립율
   - 가장 빈도수가 많았던 제품 카테고리인 'Apparel', 'Nest-USA'에 대한 제품 추천 쿠폰 발행 활성화
-![image](https://github.com/cheong0412/E-commerce_Customer_Segmentation_and_Prediction/assets/153011230/d6761ff9-f236-43fa-859a-dce35f53cb4d)
-
-![image](https://github.com/cheong0412/E-commerce_Customer_Segmentation_and_Prediction/assets/153011230/d85c83f0-6e9c-46ae-abd3-20fa1d48f7a0)
+![image](https://github.com/cheong0412/E-commerce_Customer_Segmentation_and_Prediction/assets/153011230/8e3e3131-4c9a-4a2a-a5a4-b1f8babc1ab8)
 
 ## 기대 효과
 - 고객 세분화를 통해 고객의 선호도, 구매 패턴, 소비 형태를 파악함으로써 고객 이해도가 향상됨.
