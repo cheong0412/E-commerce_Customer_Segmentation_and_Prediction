@@ -27,6 +27,8 @@
 ## 분석 결과
 <img width="628" height="165" alt="1-2  데이터" src="https://github.com/user-attachments/assets/1f7c4efc-3458-4fdd-97ec-be30cd71735a" />
 <img width="583" height="192" alt="1-3  데이터" src="https://github.com/user-attachments/assets/667e9bc7-6ce4-4c6f-84b9-119383ef37d6" />
+
+
 ### 1. 고객 세분화
 <img width="1311" height="563" alt="2  고객 세분화" src="https://github.com/user-attachments/assets/841010cb-ed7e-474a-85d2-76cb600d3076" />
 
